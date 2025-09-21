@@ -11,7 +11,7 @@ return {
         "shfmt", -- Shell scripts
         "prettier", -- JSON, YAML, Markdown, etc.
         "latexindent", -- LaTeX
-        "cmake-format", -- CMake
+       -- "cmake-format", -- CMake
         "taplo", -- TOML
 
         -- Language servers (additional to mason-lspconfig)

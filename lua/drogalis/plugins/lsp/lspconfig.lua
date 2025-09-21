@@ -59,7 +59,7 @@ return {
                 settings = {
                     python = {
                         analysis = {
-                            typeCheckingMode = "strict",
+                            typeCheckingMode = "recommended",
                             autoSearchPaths = true,
                             useLibraryCodeForTypes = true,
                             autoImportCompletions = true
