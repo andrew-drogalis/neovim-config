@@ -8,6 +8,6 @@ return {
       width = 0.5,
       position = "center", -- topleft, topright, bottomleft, bottomright
     })
-    vim.keymap.set("n", "q", ":Td<CR>", { silent = true })
+    -- vim.keymap.set("n", "k", ":Td<CR>", { silent = true })
   end,
 }
