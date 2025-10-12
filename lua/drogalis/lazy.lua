@@ -17,6 +17,7 @@ require("lazy").setup({
     { import = "drogalis.plugins" },
     { import = "drogalis.plugins.lsp" },
    -- { import = "drogalis.plugins.jupyter" },
+   -- { import = "drogalis.plugins.math" },
   },
 
   defaults = {
